@@ -1,0 +1,2 @@
+-CSS ve JAVASCRİPT kullanılarak oluşturulmuştur.
+-Sepete ekleme ve konum belirleme ve yönlendirme eklenmiştir.
